@@ -18,7 +18,7 @@ class Plugin extends Base
 
     public function getPluginDescription()
     {
-        return t('A CSS-only theme for Kanboard, inspired');
+        return t('A CSS-only theme for Kanboard');
     }
 
     public function getPluginAuthor()
@@ -33,6 +33,6 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/synergico/campsite-for-kanboard';
+        return 'https://github.com/bgibout/blueboard';
     }
 }
