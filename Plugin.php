@@ -23,7 +23,7 @@ class Plugin extends Base
 
     public function getPluginAuthor()
     {
-        return bgibout;
+        return 'bgibout';
     }
 
     public function getPluginVersion()
